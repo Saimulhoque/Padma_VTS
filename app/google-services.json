@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "823170744863",
+    "project_id": "padma-tracker",
+    "storage_bucket": "padma-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823170744863:android:94af82b32f67607c820b2a",
+        "android_client_info": {
+          "package_name": "com.forbitbd.padmatracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823170744863-2e36ok9j9083isk45mohi30hnmoepbt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forbitbd.padmatracker",
+            "certificate_hash": "99ee33599a7037f162285b8a059a119afb2f6716"
+          }
+        },
+        {
+          "client_id": "823170744863-5vqhbrfqdkfct8bp0mn2bfdqevcmhd9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo8LOP7XkPL-VK_hKJSrSZu9i--ZGDc3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823170744863-5vqhbrfqdkfct8bp0mn2bfdqevcmhd9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

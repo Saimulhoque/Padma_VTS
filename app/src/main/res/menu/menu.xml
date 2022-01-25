@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"/>
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item
+        android:id="@+id/allinmap"
+        android:title="View All In Map"
+        android:icon="@drawable/ic_baseline_layers_24"/>
+
+    <item
+        android:id="@+id/sharedvehicle"
+        android:title="Shared Vehicles"
+        android:icon="@drawable/ic_baseline_people_24"/>
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_24"/>
+
+    <item
+        android:id="@+id/notification"
+        android:title="Notification"
+        android:icon="@drawable/ic_baseline_notifications_24"/>
+
+    <item
+        android:id="@+id/alert"
+        android:title="Alert"
+        android:icon="@drawable/ic_baseline_notifications_24"/>
+
+    <item
+        android:id="@+id/payment"
+        android:title="Payment"
+        android:icon="@drawable/ic_baseline_payment_24"/>
+
+    <item
+        android:id="@+id/contact"
+        android:title="Contact"
+        android:icon="@drawable/ic_baseline_perm_contact_calendar_24"/>
+
+    <item
+        android:id="@+id/expense"
+        android:title="Expense"
+        android:icon="@drawable/ic_baseline_attach_money_24"/>
+
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_baseline_settings_24"/>
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_baseline_login_24"/>
+
+
+</menu>
